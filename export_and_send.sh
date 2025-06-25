@@ -5,7 +5,7 @@ EXPORT_DIR="/var/www/html/data-exports/exports"
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 DB_NAME="CRMdb"
 COLLECTION_NAME="betaoddshistories"
-LEAGUE_IDS=("5591" "1773" "2048" "5598" "1818")
+LEAGUE_IDS=("201149" "1739" "5595" "1835" "9320" "1857" "9531" "1880" "1891" "1904" "1978" "9885" "214101" "2025" "2027" "2081" "1844" "6546" "6545" "6543" "2050" "2095" "2102" "2136" "2242" "2253" "2259" "2331" "2359" "2366" "6633" "2387" "2395" "2453" "2457" "215328" "218702" "2432" "2518" "2578" "2650" "5593" "201065" "2663" "5596" "199211" "2417" "2434")
 MARKETS=("moneyline:maxMoneyline" "spreads:maxSpread")
 
 TELEGRAM_BOT_TOKEN="7971261172:AAEywYpFXz86ex7GcXH50ruNfT3JPvadOxg"
